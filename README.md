@@ -1,5 +1,5 @@
-`cargo check` will check on lib and bin targets by default, but `cargo clippy` 
-stops once an error is met.
+`cargo check` will check on lib and bin targets by default, and successfully, but `cargo clippy` 
+stops once a clippy error is met.
 
 ```rust
 $ cargo check
