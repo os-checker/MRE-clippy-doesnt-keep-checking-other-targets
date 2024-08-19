@@ -1,0 +1,6 @@
+[package]
+name = "MRE-clippy-doesnt-keep-checking-other-targets"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
